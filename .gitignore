@@ -1,4 +1,6 @@
 var/cache/
 var/log/
 var/report/
+var/session/
 media/catalog/product/cache/
+var/locks/
